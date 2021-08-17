@@ -1,0 +1,29 @@
+body {
+    display:block;
+    background-color: #9CA3AF;
+}
+#btn-translate {
+    display:flex;
+    background-color: black;
+    color:burlywood;
+    padding:0.5rem 0.5rem;
+    border-radius:1rem;
+}
+#output-box {
+    
+    border:1px solid black;
+    height:10vh;
+    width:31%;
+    padding:1.5rem;
+    
+    
+}
+/* h1 { */
+    /* text-align: center; */
+/* } */
+#input {
+    align-items: center;
+}
+#desc {
+    font-weight: 1rem;
+}
